@@ -13,6 +13,6 @@ printf("\nnearest value is:%d\n",n);
 }
 else
 {
-printf("\nnearest value is:%d\n",n);
+printf("\nnearest value is:%d\t",n);
 }
 }
